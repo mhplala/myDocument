@@ -1,7 +1,7 @@
 #说明 本分类包含了 liteVr 2.0 版本的文档
 
 
-1. [ 首页发现功能需求文档](/litevr/litevr_homepage_PRD_10.20)
+1. [首页发现功能需求文档](/litevr/litevr_homepage_PRD_10.20)
 
 2. [订阅功能需求文档](/litevr/subscribe_PRD_10.21)
 
