@@ -3,7 +3,7 @@
 
 1. [ 首页发现功能需求文档](/litevr/litevr_homepage_PRD_10.20)
 
-2. [订阅功能需求文档](/litevr/订阅功能需求_10.21)
+2. [订阅功能需求文档](/litevr/subscribe_PRD_10.21)
 
 3. [我的tab 需求文档](/litevr/我的tab 需求文档_10.21)
 
