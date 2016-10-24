@@ -1,1 +1,1 @@
-read me[litevr](/pages/litevr)
+read me[litevr](/pages/litevr/)
