@@ -3,6 +3,6 @@
 
 # 目录
 
-### [liteVr 文档](/litevr/liteVr 2.0 版本文档)
+### [liteVr 文档](/litevr/liteVr 2 dot 0 Ban Ben Wen Dang)
 
 ### [kooVr 文档](/koovr/)
