@@ -4,3 +4,4 @@
 # 目录
 
 [liteVr 文档](/litevr/)
+[kooVr 文档](/koovr/)
